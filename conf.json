@@ -1,0 +1,11 @@
+{
+    "host": "hostname_del_tuo_database",
+    "user": "username_del_tuo_database",
+    "password": "password_del_tuo_database",
+    "database": "nome_del_tuo_database",
+    "port": 0,
+    "ssl": {
+      "ca": "contenuto_del_tuo_certificato_SSL"
+    }
+  }
+  
